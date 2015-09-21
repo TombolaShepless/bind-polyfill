@@ -1,0 +1,9 @@
+{
+  "name": "bind-polyfill",
+  "authors": [
+    "Mozilla"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
